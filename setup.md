@@ -1,3 +1,4 @@
+#Need a github account
 ---
 layout: page
 title: Setup
