@@ -12,3 +12,6 @@ If you are using Windows to follow this course, you should open `Git BASH`.
 
 ### Installation
 [See here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for installation instructions for the major operating systems.
+
+
+Please this is a change that I'M MAKING 
