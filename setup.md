@@ -1,3 +1,5 @@
+Add Github Account
+
 ---
 layout: page
 title: Setup
