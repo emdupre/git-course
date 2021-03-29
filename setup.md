@@ -11,6 +11,8 @@ There are no files required for this lesson. You will create all the files neede
 
 git is free and open-source software, available for all major operating systems.
 
+Please make a GitHub account
+
 ### Installation
 
 If you are working on a Linux or MacOS machine,
